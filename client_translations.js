@@ -1,6 +1,9 @@
 const TRANSLATIONS = {
     it: {
         // UI LABELS
+        "pwa_install_title": "Installa l'App",
+        "pwa_install_desc": "Gioca a Wordle in modo più veloce e senza distrazioni! Installa l'app per prestazioni migliori.",
+        "btn_later": "Più tardi",
         "game_title": "Multiplayer Guess The Word (Wordle)",
         "loading": "Caricamento...",
         "lobby_title": "Wordle Multiplayer",
@@ -332,6 +335,9 @@ const TRANSLATIONS = {
     },
     en: {
         // UI LABELS
+        "pwa_install_title": "Install App",
+        "pwa_install_desc": "For better performance and a distraction-free experience, install the app!",
+        "btn_later": "Later",
         "game_title": "Multiplayer Guess The Word (Wordle)",
         "loading": "Loading...",
         "lobby_title": "Wordle Multiplayer",
